@@ -1,2 +1,4 @@
 .metadata/
 RemoteSystemsTempFiles/
+Client/bin/
+Server/bin/
